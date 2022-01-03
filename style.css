@@ -11,3 +11,7 @@ p{color: rgb(5, 8, 2);
     i{
         color: darkblue;
     }
+    img{
+        width: 300px;
+        height: auto;
+    }
