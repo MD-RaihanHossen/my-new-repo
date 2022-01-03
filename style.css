@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{color: red; 
+    background-color: cornsilk;}
+h2{color: blueviolet; 
+    background-color: cyan;}
+p{color: rgb(5, 8, 2);
+    background-color: rgb(216, 209, 168);}
