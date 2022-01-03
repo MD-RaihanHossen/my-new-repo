@@ -16,3 +16,8 @@ p{color: rgb(5, 8, 2);
         width: 300px;
         height: auto;
     }
+
+    small{
+        color: darkblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
